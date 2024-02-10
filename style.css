@@ -1,0 +1,18 @@
+*{
+  margin: 10;
+  padding: 0;
+  border: 0 ;
+  font-size: 110%;
+  vertical-align: baseline;
+  background: black;
+  color: white;
+}
+
+body{
+  text-align: center;
+  font-font-family: sans-seif;
+}
+
+.title{
+  font-size: 60px;
+}
